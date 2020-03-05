@@ -1,0 +1,10 @@
+*.class
+*.log
+*log.txt
+bin
+
+# mac
+.DS_Store
+
+#Jupyter
+.ipynb_checkpoints
